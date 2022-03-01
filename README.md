@@ -32,6 +32,6 @@ Undocumented commands:
   - /ban
   - /username
   - /createchannel
-  -/removechannel
+  - /removechannel
   - /kick
   - /mute
