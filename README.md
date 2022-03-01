@@ -27,3 +27,10 @@ List of commands:
 - /overlay - overlays an image(wasted, passed, jail, triggered, comrade)
 - /dadjoke - generates dads joke
 - /screen - obtains random screenshot
+
+Undocumented commands:
+  - /ban
+  - /username
+  - /createchannel, /removechanne
+  - /kick
+  - /mute
